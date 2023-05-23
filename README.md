@@ -10,10 +10,12 @@
 
 I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland 🇵🇱.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 At the moment, I’m working some hustle jobs in the holidays.
 
-- 🌱 Exploring Technical Content Writing.
+-  I’m Currently learning programming in high school.
 
-- 💻 In my free time, I try my best in E-sports
+- 💻 In my free time, I try my best in E-sport.
+
+- 🏋️‍♂️ I also love going to the gym.
 
 - 📭 Reach out to me, here:  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00)
