@@ -12,7 +12,7 @@ I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🔭 At the moment, I’m working some hustle jobs in the holidays.
 
--  I’m Currently learning programming in high school.
+- 🌱 I’m Currently learning programming in high school.
 
 - 💻 In my free time, I try my best in E-sport.
 
