@@ -16,4 +16,4 @@ I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 💻 In my free time, I try my best in E-sports
 
-- 📭 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00)
+- 📭 Reach out to me, here:  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00)
