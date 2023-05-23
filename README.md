@@ -14,6 +14,6 @@ I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🌱 Exploring Technical Content Writing.
 
-- 💻 In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 💻 In my free time, I try my best in E-sports
 
-- 📭 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📭 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00)
