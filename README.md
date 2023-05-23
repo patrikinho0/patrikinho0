@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+Hi, I am Patrick, a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
 - 🔭 At the moment, I’m working some hustle jobs in the holidays.
 
