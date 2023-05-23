@@ -1,5 +1,5 @@
-### Hi there 👋
-## Im Patrick and I like cats
+# Hi there 👋
+### Im Patrick and I like cats
 
 <!--
 
