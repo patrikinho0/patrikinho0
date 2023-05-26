@@ -24,4 +24,4 @@ Hi, I am Patrick, a Newbie Developer <img src="https://media.giphy.com/media/WUl
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00).<br><br>
 
 - 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]().<br>
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)].<br>
