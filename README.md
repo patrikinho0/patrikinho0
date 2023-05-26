@@ -20,8 +20,8 @@ Hi, I am Patrick, a Newbie Developer <img src="https://media.giphy.com/media/WUl
 
 - 📭 Reach out to me on my socials:  
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sadowski-a302a6278/).<br>
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00).<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sadowski-a302a6278/) <br>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00) <br><br>
 
 - 📖 Learning:.<br><br>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() <br>
