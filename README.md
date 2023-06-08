@@ -6,7 +6,7 @@
 
 ---
 
-<h2> 👨‍💻 About Me : </h2>
+### 👨‍💻 About Me :
 
 <h3> Hi, I am Patrick, a Newbie Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland. </h3>
 
@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-sadowski-a302a6278/) <br>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrikinho00) <br><br>
 
-<h3> - 📖 Learning: </h3> <br><br>
+### - 📖 Learning: <br><br>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() <br>
 [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() <br>
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() <br>
