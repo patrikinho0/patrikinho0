@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A junior front-end developer from Poland</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
-</div><br><br>
-
 ---
 
 ### 👨‍💻 About Me:
