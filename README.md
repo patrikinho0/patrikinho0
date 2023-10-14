@@ -33,6 +33,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+  ![patrikinho0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikinho0&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
 </p><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrikinho0&label=Visitors:&color=0e64b4&style=plastic" alt="patrikinho0" /></p>
