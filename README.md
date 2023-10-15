@@ -41,8 +41,6 @@
 
   ![patrikinho0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikinho0&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 </p><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patrikinho0&label=Visitors:&color=0e64b4&style=plastic" alt="patrikinho0" /></p>
