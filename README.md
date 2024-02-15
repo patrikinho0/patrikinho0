@@ -7,7 +7,7 @@
 
 <h3> - 🌱 I’m Currently learning programming in high school. </h3>
 
-<h3> - 💸 Making steps in starting my own business. </h3>
+<h3> - 🖥️ In my free time I'm trying my best in E-sports. </h3>
 
 <h3> - 🏋️‍♂️ I also love going to the gym. </h3>
 
